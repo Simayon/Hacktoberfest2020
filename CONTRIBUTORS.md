@@ -46,7 +46,7 @@
  - Place: New Delhi, India
  - Bio: Student
  - GitHub: [tvibhu12](https://github.com/tvibhu12)
- #### Name: [Raghesh Kumar](https://github.com/imaGIN22)
+ #### Name: [Simayon Thampi](https://github.com/Simayon)
  - Place: Kerala, India
- - Bio: Student
- - GitHub: [imaGIN22](https://github.com/imaGIN22)
+ - Bio: Student, ML hobbyist
+ - GitHub: [Simayon](https://github.com/Simayon)
